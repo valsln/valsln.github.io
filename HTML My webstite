@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<h1> Hello word ! Welcome to my webpage !</h1>
+<h2> <u>Who I am </u> ?</h2>
+<p>
+  <ul>
+    <li> My name is <strong><b>Valentine</b></strong>. I'm 20, I'm from Lyon in <b> France </b>.
+      <img src="https://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/France/Lyon/lyon-view-from-fourviere-hill-lyon-attractions-guide.jpg?imwidth=1400" alt="Picture of Lyon">
+    </li>
+    <p><small><i>* Note: Lyon, a French city in the historic Rhône-Alpes region, is located at the junction of the Rhône and the Saône. Its centre has a 2,000-year history, with its Roman amphitheatre of the Three Gauls, the medieval and Renaissance architecture of Old Lyon and the modernity of the Confluence district on the Presqu'île. Les Traboules, covered passages between buildings, connect Old Lyon to the hill of La Croix-Rousse.</i></small></p>
+    <li> I'm in <b> 3rd year </b> of a <u>business school</u> which is <a href="https://ece.inseec.com/"> BBA INSEEC. </a>
+    </li>
+    <img src="https://pbs.twimg.com/profile_images/935452678427168768/4zkLBKFO_400x400.jpg" alt="BBA INSEEC Logo">
+
+    <li>
+      I spent three months in <b> London to study </b>. </li>
+    <li>
+      Then, I will do an <b> internship</b> for 6 months in the <b> Radisson Blu hotel </b> in Lyon.
+      <img src="https://media-cdn.tripadvisor.com/media/photo-s/10/0d/7d/c7/radisson-blu-lyon.jpg" alt="Radisson Blu Hotel Lyon"></li>
+    <h2> <u> What I love </u> ? </h2>
+    <ol>
+      <li> Fashion </li>
+      <li> Sport </li>
+      <li> Movies </li>
+      <li> Travelling </li>
+      <li> Animals </li>
+    </ol>
+
+    <p> I will talk more about <i> travels </i> : I'm very <b>lucky </b> because I went to different
+      <b> countries</b> all around the world.
+      <h3> - <b>Africa</b> </h3>
+      <img src="https://geology.com/world/africa-map.gif" alt="Africa Map">
+      <p> I really love Africa, I went to this country <u>many times</u>. I spent holidays in Africa with my family and friends of my parents, <i>whose father is my godfather</i>, who lived in <u>Senegal for a few years</u>. Now they live in <b>Côte d'Ivoire</b>,
+        that's why we're going to see them for the <i>New Year</i> to have a good time together. To explain more about my passion for Africa, these are all the countries I've been to :
+        <li> Senegal </li>
+        <li> Tanzania </li>
+        <li> Morocco </li>
+        <li> Tunisia </li>
+<p> and I went to <b> South Africa </b> during 3 months from <i> January to April 2019 </i> for my internship in a South African company based in <u> Cape Town </u>.
+        <h3><span class="Australia"><b>- Australia</b> </span></h3>
+        <img src="http://www.lonelyplanet.com/maps/pacific/australia/map_of_australia.jpg" alt="Australia Map">
+        <p> Australia was also an amazing trip <u> because </u> it was a family trip so I was able to do many thing with my parents and my sister <b> Victoria </b>. We did a <u> road trip </u> from <i>Sydney to Cairns </i> with friends of my parents who living
+          in <b>Melbourne</b>.
+          <ol> I did many things such as :
+            <li> See and touch <b><a href="https://www.youtube.com/watch?v=4DZnx1mGyq4"> kangaroos</a></b></li>
+            <li> Hug a <b><a href="https://www.youtube.com/watch?v=nyAwTuHYgDs">koala</a></b> </li>
+            <li>Entering <b><a href="https://www.youtube.com/watch?v=0wCUiMGXc-A">Sydney</b>'s opera house </a>
+            </li>
+          </ol>
+          <h3><span class="Mexico">- Mexico</span></h3>
+          <img src="https://geology.com/world/mexico-states-map.gif" alt="Mexico Map">
+          <p> I went to Mexico when I was still in <b>high-school</b>, it was a school trip. This trip was booked for people in <u>Spanish European class</u>. I had the chance to be part of it, I spent <i>3 amazing weeks</i> with my friends. We were each
+            staying with <b>Mexican correspondents</b> who gave us a very warm welcome. </p>
+
+          <h1>
+            Thank you for reading my website, I hope you enjoyed it. For more information you can contact me by <a href="mailto:valentine.solano@ece-france.com"> e-mail</a>
+            </html>
+
+<css>
+    h1 {
+  color: CornflowerBlue;
+  font-family: sans-serif;
+}
+h2 {
+  color: MediumVioletRed;
+  font-family: sans-serif;
+}
+img {
+  border-style: dotted;
+  border-width: 2px;
+  border-color: blue;
+}
+h3 {
+  color: Green;
+  font-family: sans-serif;
+}
+.Australia {
+  color: Darkblue;
+  font-family: sans-serif;
+}
+.Mexico {
+  color: Darkred;
+  font-family: sans-serif;
+}
+img {
+  width: 300px;
+}
+h1, h2, h3, p, ol, li {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+</css>
